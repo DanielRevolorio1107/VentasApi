@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dYMDC8OqKTh+i7VZv77r7yxeyc6aC+1xIrs1znY5NS8=",
+  "Source": "VentasApi",
+  "BasePath": "_content/VentasApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
